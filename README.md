@@ -15,3 +15,4 @@
 - [ ] CICD.
 - [ ] 可配置路由.
 - [ ] Server component.
+- [ ] 全局Store
